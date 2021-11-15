@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/dop251/goja"
-	"github.com/johannes-adr/typescripttranspiler/bytefmt"
+	"github.com/johannes-adr/gopherts/bytefmt"
 	"github.com/tdewolff/minify"
 	"github.com/tdewolff/minify/js"
 )
